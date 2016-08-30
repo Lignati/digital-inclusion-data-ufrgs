@@ -1,7 +1,7 @@
 # Data classification and research final project
 
 ##Professor: Leandro Wives
-The work main purpose is to create an application to make it possible to vizualise information about digital inclusion and, in a most general way, access to information. Compiling data from:
+The work main purpose is to create an application to make it possible to visualize information about digital inclusion and, in a most general way, access to information. Compiling data from:
 
 -Digital TV access
 
