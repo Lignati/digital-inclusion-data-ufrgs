@@ -1,0 +1,53 @@
+ISBL, numerico, 10000, 1.044.
+ISBB, numerico, 10000, 1.024.
+SHST, numerico, 10000, 0.005.
+BBST, numerico, 10000, 2.843.
+QSRM, numerico, 10000, 0.008.
+MGST, numerico, 10000, 0.009.
+HPST, numerico, 10000, 0.011.
+RMSD, numerico, 10000, 4.800.
+
+ISBL, numerico, 1000, 0.018.
+ISBB, numerico, 1000, 0.016.
+SHST, numerico, 1000, 0.000.
+BBST, numerico, 1000, 0.039.
+QSRM, numerico, 1000, 0.001.
+MGST, numerico, 1000, 0.001.
+HPST, numerico, 1000, 0.001.
+RMSD, numerico, 1000, 0.060.
+
+ISBL, numerico, 100, 0.000.
+ISBB, numerico, 100, 0.000.
+SHST, numerico, 100, 0.000.
+BBST, numerico, 100, 0.001.
+QSRM, numerico, 100, 0.000.
+MGST, numerico, 100, 0.000.
+HPST, numerico, 100, 0.000.
+RMSD, numerico, 100, 0.002.	
+
+ISBL, categorico, 10000, 0.827.
+ISBB, categorico, 10000, 0.814.
+SHST, categorico, 10000, 0.200.
+BBST, categorico, 10000, 2.866.
+QSRM, categorico, 10000, 0.311.
+MGST, categorico, 10000, 0.013.
+HPST, categorico, 10000, 0.012.
+RMSD, categorico, 10000, 3.175.
+
+ISBL, categorico, 1000, 0.011.
+ISBB, categorico, 1000, 0.012.
+SHST, categorico, 1000, 0.007.
+BBST, categorico, 1000, 0.030.
+QSRM, categorico, 1000, 0.010.
+MGST, categorico, 1000, 0.003.
+HPST, categorico, 1000, 0.002.
+RMSD, categorico, 1000, 0.030.
+
+ISBL, categorico, 100, 0.000.
+ISBB, categorico, 100, 0.000.
+SHST, categorico, 100, 0.000.
+BBST, categorico, 100, 0.000.
+QSRM, categorico, 100, 0.000.
+MGST, categorico, 100, 0.000.
+HPST, categorico, 100, 0.000.
+RMSD, categorico, 100, 0.000.	
